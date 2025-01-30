@@ -59,14 +59,7 @@ The training process includes visualization of accuracy and loss curves, helping
 - Optimize real-time processing for better performance.
 - Implement gesture-to-text conversion for improved accessibility.
 
-## Contributing
-Feel free to contribute by submitting issues or pull requests to improve this project.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-### Author: Your Name
-For any inquiries, feel free to contact [your-email@example.com](mailto:your-email@example.com).
+### Author:
+ akhssaysaid023@gmail.com
+ mustaphalahmer090@gmail.com
 
