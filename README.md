@@ -20,18 +20,6 @@ This project focuses on recognizing sign language gestures using deep learning t
 - NumPy
 - SciKit-Learn
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/sign-language-recognition.git
-   cd sign-language-recognition
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Ensure that your dataset is stored in the correct directory as defined in the script.
-
 ## Training the Model
 Run the following command to train the model:
 ```sh
